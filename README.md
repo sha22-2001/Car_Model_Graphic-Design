@@ -16,3 +16,14 @@ The design was created using a combination of parametric modeling and assembly t
 ![Robot4 O(3d View)](https://user-images.githubusercontent.com/95826757/236002617-fc9b839d-fb5c-4f4e-9f00-123657348584.jpg)
 
 This drone design is a testament to the versatility and power of Fusion 360, and showcases the potential for the software to be used in a range of design applications. Whether you're designing a drone for hobby or professional use, Fusion 360 provides a powerful and intuitive platform for bringing your ideas to life in 3D.
+
+
+# Table Design in Fusion 360
+This table design was created in Fusion 360, a powerful 3D modeling software used in industries such as furniture design, architecture, and product design.
+
+The table features a modern and minimalist design, with clean lines and a simple, yet elegant aesthetic. The table is made of wood and includes a tabletop with a smooth, polished finish and tapered legs for stability. The design also includes a shelf below the tabletop for storing books, magazines, or other items.
+
+The design was created using a combination of parametric modeling and assembly techniques. The model is fully customizable, allowing users to adjust the dimensions and features of the table to suit their specific needs. Users can also easily modify the design to create variations, such as a coffee table or a side table.
+
+This table design is a testament to the versatility and power of Fusion 360, and showcases the potential for the software to be used in a range of design applications. Whether you're a furniture designer, architect, or product designer, Fusion 360 provides a powerful and intuitive platform for bringing your ideas to life in 3D.
+![Table](https://user-images.githubusercontent.com/95826757/236003144-6f1219ee-9fb9-4975-89f6-c7cd7eb7f764.jpg)
